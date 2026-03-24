@@ -1,0 +1,4 @@
+# Güvenlik Kalkanı: Ruh (Private Key) asla dışarı sızamaz!
+.env
+__pycache__/
+*.pyc
